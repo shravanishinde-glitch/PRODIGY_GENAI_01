@@ -1,0 +1,11 @@
+Prompt: Once upon a time
+Output:
+Once upon a time, in a small village, a child discovered a secret garden.
+
+Prompt: The engineer
+Output:
+The engineer sat with code, the coffee steaming, inspired to solve the bug.
+
+Prompt: Motivational quote
+Output:
+Never give up. Every failure is a lesson.
