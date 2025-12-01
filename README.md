@@ -55,8 +55,15 @@ After training, the model can generate new text based on prompts.
 ---
 
 ## 🧠 Sample Generated Output
-Once upon a time...
-(your generated output will go here)
+
+**Prompt:** Once upon a time  
+**Output:** Once upon a time, in a small village, a child discovered a secret garden.
+
+**Prompt:** The engineer  
+**Output:** The engineer sat with code, the coffee steaming, inspired to solve the bug.
+
+**Prompt:** Motivational quote  
+**Output:** Never give up. Every failure is a lesson.
 
 ---
 
@@ -65,10 +72,12 @@ Once upon a time...
 Run this in your environment:
 pip install transformers datasets torch accelerate
 
+---
+
 ## ▶️ Run the Training Notebook
+
 Open the notebook:
 train_gpt2.ipynb
-
 Upload your dataset, run all cells, and the model will be trained.
 
 ---
@@ -86,8 +95,5 @@ This task helped me understand:
 
 ## 🧑‍💻 Intern — Shravani Shinde  
 Prodigy InfoTech — Generative AI Intern
-
-
-
 
 
